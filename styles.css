@@ -148,15 +148,15 @@ main{
         font-size: 1.2rem;
         line-height: 1.5rem;
         margin: 1% 2%;
+        align-items: center;
     }
 
     .apresentacao{
         flex-direction: column-reverse;
     }
-    
-    .apresentacao__foto{
-        width: 50%;
-        height: 50%;
+
+    .apresentacao__titulo{
+        font-size: 1.5rem;
     }
 
     .sobre{
